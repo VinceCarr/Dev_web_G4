@@ -114,3 +114,9 @@ footer>nav{
 footer ul{
     flex-direction: column;
 }
+footer ul li a{
+    height: 25px;
+}
+footer a{
+    color: white;
+}
